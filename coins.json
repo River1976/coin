@@ -1,0 +1,32 @@
+[
+  {
+    "id": "arbitrum",
+    "shortName": "ARB   ",
+    "amount": 1316.615818
+  },
+  {
+    "id": "official-trump",
+    "shortName": "TRUMP ",
+    "amount": 31.840066
+  },
+  {
+    "id": "polkadot",
+    "shortName": "DOT   ",
+    "amount": 170.36098
+  },
+  {
+    "id": "cardano",
+    "shortName": "ADA   ",
+    "amount": 103.81136
+  },
+  {
+    "id": "starknet",
+    "shortName": "STRK  ",
+    "amount": 2424.784636
+  },
+  {
+    "id": "ethereum",
+    "shortName": "ETH  ",
+    "amount": 1
+  }
+]
