@@ -23,10 +23,5 @@
     "id": "starknet",
     "shortName": "STRK  ",
     "amount": 2424.784636
-  },
-  {
-    "id": "ethereum",
-    "shortName": "ETH  ",
-    "amount": 1
   }
 ]
