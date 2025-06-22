@@ -2,7 +2,7 @@
   {
     "id": "arbitrum",
     "shortName": "ARB   ",
-    "amount": 1316.615818
+    "amount": 1178.800000
   },
   {
     "id": "official-trump",
@@ -22,6 +22,6 @@
   {
     "id": "starknet",
     "shortName": "STRK  ",
-    "amount": 2424.784636
+    "amount": 4698.544488
   }
 ]
