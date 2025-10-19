@@ -1,27 +1,8 @@
 [
   {
-    "id": "arbitrum",
-    "shortName": "ARB   ",
-    "amount": 1178.800000
-  },
-  {
-    "id": "official-trump",
-    "shortName": "TRUMP ",
-    "amount": 31.840066
-  },
-  {
-    "id": "polkadot",
-    "shortName": "DOT   ",
-    "amount": 170.36098
-  },
-  {
-    "id": "cardano",
-    "shortName": "ADA   ",
-    "amount": 103.81136
-  },
-  {
     "id": "starknet",
     "shortName": "STRK  ",
     "amount": 4698.544488
   }
 ]
+
