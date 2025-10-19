@@ -2,7 +2,13 @@
   {
     "id": "starknet",
     "shortName": "STRK  ",
-    "amount": 4698.544488
+    "amount": 4537.274344
+  },
+  {
+    "id": "usdt",
+    "shortName": "USDT  ",
+    "amount": 2068.5120285
   }
 ]
+
 
